@@ -1,6 +1,6 @@
 {
   "id": "pocopico.raspbi-pill",
-  "url": "https://raw.githubusercontent.com/pocopico/rp-ext/master/raspbi-pill/rpext-index.json",
+  "url": "https://raw.githubusercontent.com/maitien2004/xpenology/main/raspbi-pill_rpext-index.json",
   "info": {
     "name": "Early telnet start",
     "description": "Simple extension which starts telnet early at boot",
